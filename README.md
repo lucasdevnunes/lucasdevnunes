@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&height=150&color=FFFFFF&section=header&text=Hello%20there%20,%20Lucas%20here%20!&fontSize=60)
 
+<hr>
+
 Sou **Desenvolverdor de Software Back-end**, amante da Gastronomia e Zitologia, e busco codar para um mundo melhor! 
 
 
