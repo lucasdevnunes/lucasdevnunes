@@ -16,5 +16,6 @@ ________________________________________________________________________________
 ![image](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![image](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
+____________________________________________________________________________________________________________________________________________
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdevnunes)](https://github.com/anuraghazra/github-readme-stats)
