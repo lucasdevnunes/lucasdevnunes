@@ -1,3 +1,3 @@
 Hello there, Lucas here!
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=#000000&height=300&section=header&text=Hello%20there%20,%20Lucas%20here%20!&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=_hexcode#ffffff&height=300&section=header&text=Hello%20there%20,%20Lucas%20here%20!&fontSize=60)
