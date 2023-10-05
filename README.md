@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&height=150&color=FFFFFF&section=header&text=Hello%20there%20,%20Lucas%20here%20!&fontSize=60)
-
-<a href="https://www.linkedin.com/in/lucasdevnunes/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+ 
 
 
 ____________________________________________________________________________________________________________________________________________
